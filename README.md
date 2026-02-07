@@ -20,8 +20,7 @@ A command-line todo application built with Python 3.12+ that stores tasks in mem
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
-cd todoapp
+git clone https://github.com/HafsaRahman05/hackathon-2-phase1.git
 ```
 
 ### 2. (Optional) Create virtual environment
@@ -278,4 +277,5 @@ See `.specify/memory/constitution.md` for project principles.
 ## License
 
 MIT
-# TODO_Phase1
+# hackathon-2-phase1
+
